@@ -1,0 +1,151 @@
+Year,District,Land_Use,State,pH,EC(dS/m),Organic_Matter(%),Lead(mg/kg),Cadmium(mg/kg),Chromium(mg/kg),Arsenic(mg/kg),Mercury(mg/kg),Pesticide_Residue(mg/kg),Nitrogen(kg/ha),Phosphorus(kg/ha),Soil_Quality_Class
+2022,Ernakulam,Forest Buffer,Kerala,4.58,0.345,4.09,546.6,11.673,161.7,14.79,0.641,7.796,159.9,44.8,Heavily Contaminated
+2022,Thiruvananthapuram,Agricultural,Kerala,6.5,0.41,4.29,607.9,10.037,333.0,16.55,1.899,4.49,490.8,8.5,Heavily Contaminated
+2022,Thiruvananthapuram,Industrial,Kerala,5.37,3.691,3.8,82.4,7.546,92.1,82.04,0.673,3.929,338.3,8.4,Heavily Contaminated
+2022,Thiruvananthapuram,Residential,Kerala,7.86,2.107,2.88,677.5,3.988,293.6,14.57,1.678,3.174,302.9,23.1,Heavily Contaminated
+2022,Thiruvananthapuram,Wasteland,Kerala,5.25,1.036,3.5,360.4,12.114,270.5,28.22,3.788,6.913,570.7,72.8,Heavily Contaminated
+2022,Thiruvananthapuram,Forest Buffer,Kerala,5.53,3.925,3.95,468.9,5.679,87.8,25.47,2.296,2.838,357.6,94.4,Heavily Contaminated
+2022,Kozhikode,Agricultural,Kerala,4.27,2.405,3.21,114.5,1.406,312.0,60.08,4.251,5.553,351.4,60.6,Heavily Contaminated
+2022,Ernakulam,Agricultural,Kerala,8.79,2.246,2.24,403.2,0.351,16.0,25.46,1.617,1.457,560.7,106.1,Heavily Contaminated
+2022,Ernakulam,Industrial,Kerala,5.42,0.162,1.61,225.2,8.085,147.6,75.32,0.287,1.617,123.7,52.6,Heavily Contaminated
+2022,Ernakulam,Residential,Kerala,8.54,3.125,3.47,254.7,10.88,41.3,45.19,1.853,1.411,167.6,41.6,Heavily Contaminated
+2022,Ernakulam,Wasteland,Kerala,6.89,1.842,2.24,589.4,6.38,93.2,24.75,2.243,8.967,368.7,111.4,Heavily Contaminated
+2022,Ernakulam,Industrial,Kerala,6.92,0.358,2.51,79.3,5.642,246.5,65.76,1.662,5.079,46.5,105.5,Heavily Contaminated
+2022,Kozhikode,Residential,Kerala,8.17,3.553,5.62,334.3,8.077,13.4,75.19,3.637,1.318,113.1,43.1,Heavily Contaminated
+2022,Kozhikode,Wasteland,Kerala,8.28,2.712,2.76,258.0,12.003,39.7,59.94,0.318,4.843,473.3,39.7,Heavily Contaminated
+2022,Kozhikode,Forest Buffer,Kerala,7.56,3.008,0.34,258.8,11.656,314.9,93.83,2.454,3.777,215.8,108.6,Heavily Contaminated
+2022,Thrissur,Agricultural,Kerala,8.3,2.478,5.35,438.9,10.851,143.9,61.14,2.443,3.253,432.0,4.2,Heavily Contaminated
+2022,Thrissur,Industrial,Kerala,6.92,0.515,4.57,560.0,12.134,92.6,61.66,1.449,4.776,177.2,7.0,Heavily Contaminated
+2022,Thrissur,Residential,Kerala,7.79,1.012,5.67,369.0,10.095,323.4,51.07,1.64,6.986,201.4,39.7,Heavily Contaminated
+2022,Thrissur,Wasteland,Kerala,4.69,3.656,0.31,556.6,2.955,377.4,63.02,1.925,7.476,199.5,88.5,Heavily Contaminated
+2022,Thrissur,Forest Buffer,Kerala,8.67,2.828,4.05,257.4,10.657,190.9,39.62,2.86,4.011,415.8,22.4,Heavily Contaminated
+2022,Palakkad,Agricultural,Kerala,4.97,3.941,5.46,105.7,5.682,59.0,40.62,0.464,5.224,366.8,73.0,Heavily Contaminated
+2022,Palakkad,Industrial,Kerala,5.07,2.782,0.6,311.9,13.081,377.6,59.21,2.572,2.009,128.8,66.3,Heavily Contaminated
+2022,Palakkad,Residential,Kerala,4.22,1.296,5.59,445.5,9.772,146.1,78.65,2.677,5.093,505.8,17.5,Heavily Contaminated
+2022,Palakkad,Wasteland,Kerala,7.41,2.45,1.27,148.3,12.61,146.4,13.69,2.915,8.545,434.8,79.1,Heavily Contaminated
+2022,Palakkad,Forest Buffer,Kerala,6.71,2.599,3.13,749.0,7.392,203.5,90.28,2.884,3.425,248.2,47.1,Heavily Contaminated
+2022,Malappuram,Agricultural,Kerala,7.33,2.949,1.48,244.5,8.947,222.7,2.05,2.248,8.843,289.8,103.3,Heavily Contaminated
+2022,Malappuram,Industrial,Kerala,7.3,3.162,5.06,474.0,6.188,279.5,83.03,4.051,0.406,471.1,105.5,Heavily Contaminated
+2022,Malappuram,Residential,Kerala,6.58,1.011,4.36,265.9,12.838,239.2,20.85,4.001,4.412,336.2,66.4,Heavily Contaminated
+2022,Malappuram,Wasteland,Kerala,4.54,3.712,1.78,541.4,13.881,46.2,31.37,1.805,5.352,459.7,106.6,Heavily Contaminated
+2022,Malappuram,Forest Buffer,Kerala,4.91,2.061,5.47,23.7,6.453,53.9,62.77,1.476,1.522,107.2,99.7,Heavily Contaminated
+2022,Kannur,Agricultural,Kerala,6.8,1.784,2.18,464.5,12.706,335.6,22.36,2.641,2.191,180.1,105.7,Heavily Contaminated
+2022,Kannur,Industrial,Kerala,4.58,2.202,4.37,515.3,2.47,68.7,46.96,3.642,0.139,532.5,43.7,Heavily Contaminated
+2022,Kannur,Residential,Kerala,5.53,2.996,2.67,148.1,10.25,106.6,65.54,3.566,8.93,382.2,88.2,Heavily Contaminated
+2022,Kannur,Wasteland,Kerala,6.03,0.354,0.98,471.9,13.08,47.0,27.72,3.387,7.526,310.5,13.6,Heavily Contaminated
+2022,Kannur,Forest Buffer,Kerala,7.08,1.435,1.16,70.7,4.513,297.3,39.58,2.164,5.425,247.6,27.2,Moderately Contaminated
+2022,Kollam,Agricultural,Kerala,6.11,2.378,1.05,79.7,1.671,371.6,37.05,0.824,7.666,294.2,25.2,Moderately Contaminated
+2022,Kollam,Industrial,Kerala,7.08,0.368,1.9,119.8,4.829,105.1,85.36,1.785,1.464,106.2,32.0,Heavily Contaminated
+2022,Kollam,Residential,Kerala,6.6,0.267,1.17,418.6,7.69,272.9,50.3,1.994,7.218,480.8,21.8,Heavily Contaminated
+2022,Kollam,Wasteland,Kerala,4.85,3.894,1.59,311.8,0.79,155.4,44.29,1.539,8.58,425.9,114.0,Heavily Contaminated
+2022,Kollam,Forest Buffer,Kerala,7.62,1.134,2.37,331.8,10.617,54.4,69.78,0.696,9.35,384.2,108.6,Heavily Contaminated
+2022,Pathanamthitta,Agricultural,Kerala,7.85,1.47,5.08,304.3,8.017,120.1,68.29,0.956,5.631,569.6,62.5,Heavily Contaminated
+2022,Pathanamthitta,Industrial,Kerala,8.2,3.951,4.3,740.1,10.323,352.0,19.12,3.982,0.335,272.7,82.4,Heavily Contaminated
+2022,Pathanamthitta,Residential,Kerala,5.91,1.703,1.35,584.1,1.78,180.4,3.51,3.514,0.72,513.7,15.5,Heavily Contaminated
+2022,Pathanamthitta,Wasteland,Kerala,7.35,3.564,1.01,242.5,0.455,185.3,2.73,3.559,1.306,379.9,26.3,Heavily Contaminated
+2022,Pathanamthitta,Forest Buffer,Kerala,8.7,3.003,0.72,462.2,12.646,51.8,30.03,2.706,4.835,226.9,108.1,Heavily Contaminated
+2022,Idukki,Agricultural,Kerala,5.36,1.855,5.13,261.3,9.612,160.1,76.82,2.601,3.587,477.3,31.2,Heavily Contaminated
+2022,Idukki,Industrial,Kerala,8.51,2.247,0.97,38.1,11.38,295.5,63.28,3.257,4.849,76.6,56.3,Heavily Contaminated
+2022,Idukki,Residential,Kerala,7.58,1.593,4.27,187.7,4.496,273.3,28.3,3.424,8.609,279.3,79.1,Moderately Contaminated
+2022,Idukki,Wasteland,Kerala,5.66,1.995,2.38,400.3,13.789,371.2,40.83,3.124,7.8,294.3,105.8,Heavily Contaminated
+2022,Idukki,Forest Buffer,Kerala,5.72,1.105,2.84,546.1,12.82,183.4,54.74,1.695,1.686,91.3,87.2,Heavily Contaminated
+2023,Ernakulam,Agricultural,Kerala,4.87,3.174,5.78,422.5,7.852,259.4,62.37,1.992,8.683,220.6,95.5,Heavily Contaminated
+2023,Ernakulam,Industrial,Kerala,6.85,3.983,3.66,482.8,9.111,239.0,16.47,3.018,5.207,445.1,114.9,Heavily Contaminated
+2023,Ernakulam,Residential,Kerala,8.01,3.992,4.38,61.1,8.183,249.9,71.56,2.957,7.655,335.0,40.6,Heavily Contaminated
+2023,Ernakulam,Wasteland,Kerala,5.45,0.707,5.55,645.9,13.213,194.8,34.07,1.097,5.732,470.1,38.7,Heavily Contaminated
+2023,Ernakulam,Forest Buffer,Kerala,6.49,2.213,3.27,654.0,4.252,167.1,40.56,3.902,6.384,276.3,53.9,Heavily Contaminated
+2023,Thiruvananthapuram,Agricultural,Kerala,8.77,2.013,3.24,85.0,8.006,198.3,89.77,0.595,8.708,504.9,12.5,Heavily Contaminated
+2023,Thiruvananthapuram,Industrial,Kerala,4.25,3.144,0.85,192.4,4.029,285.7,70.91,3.541,3.806,283.4,102.3,Heavily Contaminated
+2023,Thiruvananthapuram,Residential,Kerala,6.3,1.573,4.59,244.1,1.444,193.9,27.92,0.856,1.311,299.5,28.6,Heavily Contaminated
+2023,Thiruvananthapuram,Wasteland,Kerala,7.69,0.879,1.29,552.1,0.916,19.7,85.19,3.113,8.604,267.5,34.7,Heavily Contaminated
+2023,Thiruvananthapuram,Forest Buffer,Kerala,8.78,1.613,3.09,234.7,9.216,129.3,86.56,3.088,6.59,296.3,8.5,Heavily Contaminated
+2023,Kozhikode,Agricultural,Kerala,7.74,1.118,5.16,69.9,6.531,58.3,11.83,0.962,3.294,423.4,19.8,Heavily Contaminated
+2023,Kozhikode,Industrial,Kerala,4.99,1.501,5.93,106.5,2.647,51.3,85.13,1.368,6.622,483.9,87.7,Heavily Contaminated
+2023,Kozhikode,Residential,Kerala,7.11,3.026,3.39,212.1,3.679,296.9,12.73,4.238,0.028,519.3,47.8,Heavily Contaminated
+2023,Kozhikode,Wasteland,Kerala,8.39,2.968,3.81,403.2,0.7,214.7,79.04,4.0,0.136,548.3,85.7,Heavily Contaminated
+2023,Kozhikode,Forest Buffer,Kerala,4.65,1.293,3.09,89.4,2.169,75.4,12.4,0.548,3.788,534.3,82.3,Moderately Contaminated
+2023,Thrissur,Agricultural,Kerala,4.7,2.186,1.33,439.7,11.65,327.5,90.79,2.553,3.686,552.0,60.1,Heavily Contaminated
+2023,Thrissur,Industrial,Kerala,5.43,0.576,4.74,285.8,10.475,329.1,57.02,1.872,4.087,96.4,94.0,Heavily Contaminated
+2023,Thrissur,Residential,Kerala,6.57,1.995,2.06,98.2,9.875,39.6,8.79,3.421,1.9,109.8,46.1,Heavily Contaminated
+2023,Thrissur,Wasteland,Kerala,6.74,2.734,3.43,410.7,6.253,316.5,38.08,0.304,4.773,175.3,11.4,Heavily Contaminated
+2023,Thrissur,Forest Buffer,Kerala,4.86,1.366,5.71,418.5,11.7,310.3,38.78,2.137,6.686,110.8,48.6,Heavily Contaminated
+2023,Palakkad,Agricultural,Kerala,6.82,0.988,0.64,44.9,12.235,100.8,17.27,3.631,3.891,229.0,14.9,Heavily Contaminated
+2023,Palakkad,Industrial,Kerala,5.35,2.028,5.76,76.3,13.505,374.8,27.1,2.918,7.228,262.6,57.0,Heavily Contaminated
+2023,Palakkad,Residential,Kerala,5.67,2.643,3.06,139.8,8.212,353.7,20.12,3.581,5.068,480.1,67.0,Heavily Contaminated
+2023,Palakkad,Wasteland,Kerala,4.66,1.3,4.83,384.1,8.424,118.3,60.89,0.111,1.408,200.1,56.3,Heavily Contaminated
+2023,Palakkad,Forest Buffer,Kerala,5.39,2.511,5.05,69.9,4.352,250.8,58.55,3.74,6.406,474.1,5.4,Heavily Contaminated
+2023,Malappuram,Agricultural,Kerala,4.8,3.38,3.78,121.2,6.294,188.1,62.45,2.948,7.401,572.1,62.2,Heavily Contaminated
+2023,Malappuram,Industrial,Kerala,8.44,2.917,4.94,75.3,3.102,85.9,57.41,1.278,1.858,549.1,57.4,Heavily Contaminated
+2023,Malappuram,Residential,Kerala,6.67,1.925,2.94,193.5,4.551,328.6,88.91,1.225,4.372,141.1,91.7,Heavily Contaminated
+2023,Malappuram,Wasteland,Kerala,7.24,3.193,5.73,609.9,10.637,15.5,22.63,4.303,1.66,539.1,62.0,Heavily Contaminated
+2023,Malappuram,Forest Buffer,Kerala,6.71,3.563,0.97,655.5,6.134,60.0,54.01,0.4,5.91,457.0,96.9,Heavily Contaminated
+2023,Kannur,Agricultural,Kerala,4.83,2.17,4.0,652.7,10.313,144.6,6.35,1.108,0.67,437.3,5.0,Heavily Contaminated
+2023,Kannur,Industrial,Kerala,5.98,2.696,5.01,721.9,12.518,185.1,42.73,0.12,0.719,249.8,43.7,Heavily Contaminated
+2023,Kannur,Residential,Kerala,8.57,3.476,2.92,651.6,2.164,112.8,89.99,0.479,3.191,116.9,100.0,Heavily Contaminated
+2023,Kannur,Wasteland,Kerala,7.05,3.73,1.14,252.4,3.38,220.6,63.41,2.49,3.31,214.4,19.4,Heavily Contaminated
+2023,Kannur,Forest Buffer,Kerala,8.28,3.63,1.18,557.5,13.647,118.2,6.21,0.033,6.319,220.1,103.7,Heavily Contaminated
+2023,Kollam,Agricultural,Kerala,6.96,1.165,5.76,747.7,7.278,301.8,84.1,1.924,9.282,185.8,80.2,Heavily Contaminated
+2023,Kollam,Industrial,Kerala,8.04,2.026,2.78,121.2,0.674,133.3,56.11,0.372,7.165,479.0,99.6,Heavily Contaminated
+2023,Kollam,Residential,Kerala,6.64,1.337,4.66,748.0,8.757,14.3,11.54,0.516,5.832,178.9,13.3,Heavily Contaminated
+2023,Kollam,Wasteland,Kerala,8.24,3.751,1.72,130.5,12.661,83.5,40.04,0.6,5.576,545.7,12.1,Heavily Contaminated
+2023,Kollam,Forest Buffer,Kerala,6.11,3.62,5.97,550.5,5.472,169.6,37.12,3.763,3.384,231.1,36.8,Heavily Contaminated
+2023,Pathanamthitta,Agricultural,Kerala,6.15,3.367,5.91,700.2,7.926,120.8,84.3,1.905,0.685,231.8,33.4,Heavily Contaminated
+2023,Pathanamthitta,Industrial,Kerala,5.03,3.23,2.91,296.2,10.872,154.3,27.84,4.422,4.685,516.2,24.4,Heavily Contaminated
+2023,Pathanamthitta,Residential,Kerala,6.45,2.4,3.94,26.3,13.486,269.0,75.31,3.63,9.074,138.6,104.6,Heavily Contaminated
+2023,Pathanamthitta,Wasteland,Kerala,4.96,0.437,1.18,324.3,8.988,246.3,84.87,3.264,9.431,185.6,80.1,Heavily Contaminated
+2023,Pathanamthitta,Forest Buffer,Kerala,6.12,1.997,3.69,485.6,5.429,114.7,2.95,3.352,8.39,421.9,36.3,Heavily Contaminated
+2023,Idukki,Agricultural,Kerala,8.31,2.034,4.94,474.8,13.404,208.3,89.7,1.871,6.037,134.4,110.6,Heavily Contaminated
+2023,Idukki,Industrial,Kerala,8.5,3.635,4.76,255.9,5.136,117.5,48.51,0.971,9.224,569.1,21.6,Heavily Contaminated
+2023,Idukki,Residential,Kerala,6.63,2.791,1.32,40.7,10.841,35.3,10.93,3.553,0.299,342.4,74.9,Heavily Contaminated
+2023,Idukki,Wasteland,Kerala,5.44,1.293,1.87,61.4,2.775,331.9,62.51,1.637,4.488,413.2,88.8,Heavily Contaminated
+2023,Idukki,Forest Buffer,Kerala,5.3,1.353,2.05,663.9,6.454,24.5,87.88,0.297,8.17,407.2,59.9,Heavily Contaminated
+2024,Ernakulam,Agricultural,Kerala,4.84,1.753,2.0,126.2,3.039,40.4,32.56,4.062,5.327,229.4,34.5,Moderately Contaminated
+2024,Ernakulam,Industrial,Kerala,5.46,0.441,0.98,216.7,10.503,280.4,81.35,3.881,2.001,259.7,89.2,Heavily Contaminated
+2024,Ernakulam,Residential,Kerala,5.79,3.478,5.34,225.7,12.07,321.7,63.44,1.587,7.118,359.5,92.1,Heavily Contaminated
+2024,Ernakulam,Wasteland,Kerala,7.53,3.806,1.86,597.7,7.012,224.9,23.89,0.96,2.005,236.9,87.5,Heavily Contaminated
+2024,Ernakulam,Forest Buffer,Kerala,5.68,0.453,1.52,288.8,3.386,151.0,51.16,0.304,3.901,93.0,63.0,Heavily Contaminated
+2024,Thiruvananthapuram,Agricultural,Kerala,8.45,2.54,1.7,506.4,11.678,252.6,33.98,2.792,1.612,422.9,111.4,Heavily Contaminated
+2024,Thiruvananthapuram,Industrial,Kerala,7.05,1.033,4.5,491.4,2.624,63.4,52.1,0.314,8.269,136.8,71.2,Heavily Contaminated
+2024,Thiruvananthapuram,Residential,Kerala,5.01,1.374,3.3,495.4,12.924,273.1,60.88,1.467,1.453,441.7,55.7,Heavily Contaminated
+2024,Thiruvananthapuram,Wasteland,Kerala,6.1,0.748,1.7,586.7,6.793,359.1,21.5,4.174,7.403,484.3,54.8,Heavily Contaminated
+2024,Thiruvananthapuram,Forest Buffer,Kerala,4.66,2.271,2.88,174.1,3.268,88.8,2.32,4.305,4.02,224.2,7.8,Moderately Contaminated
+2024,Kozhikode,Agricultural,Kerala,7.1,3.745,2.43,44.3,2.136,341.8,76.38,1.884,1.556,331.8,6.6,Heavily Contaminated
+2024,Kozhikode,Industrial,Kerala,7.13,3.583,0.78,696.0,3.499,205.9,31.35,2.787,6.272,383.7,92.1,Heavily Contaminated
+2024,Kozhikode,Residential,Kerala,6.66,2.326,0.49,582.7,4.053,4.3,89.04,3.763,8.998,238.0,6.7,Heavily Contaminated
+2024,Kozhikode,Wasteland,Kerala,5.22,3.743,3.74,692.0,13.724,269.9,91.12,3.482,7.946,285.2,85.5,Heavily Contaminated
+2024,Kozhikode,Forest Buffer,Kerala,4.38,3.986,5.39,364.6,6.514,372.0,67.25,4.443,9.351,143.5,99.9,Heavily Contaminated
+2024,Thrissur,Agricultural,Kerala,6.66,0.344,4.82,344.8,8.837,20.1,51.4,4.418,0.406,89.2,30.6,Heavily Contaminated
+2024,Thrissur,Industrial,Kerala,8.67,3.815,4.32,578.0,5.407,47.7,39.75,0.181,5.04,502.4,43.3,Heavily Contaminated
+2024,Thrissur,Residential,Kerala,8.57,1.134,0.94,182.4,4.63,211.0,75.93,3.1,8.476,457.4,111.6,Heavily Contaminated
+2024,Thrissur,Wasteland,Kerala,5.7,3.583,1.42,289.5,1.74,257.8,5.28,0.51,1.305,154.2,39.8,Heavily Contaminated
+2024,Thrissur,Forest Buffer,Kerala,8.13,2.069,4.09,400.5,8.96,59.7,81.08,0.782,3.781,486.9,65.2,Heavily Contaminated
+2024,Palakkad,Agricultural,Kerala,6.24,2.425,4.54,271.6,8.122,336.3,94.75,2.029,1.132,63.5,23.0,Heavily Contaminated
+2024,Palakkad,Industrial,Kerala,5.53,1.148,3.35,617.1,1.928,90.9,70.6,2.037,4.9,136.0,32.1,Heavily Contaminated
+2024,Palakkad,Residential,Kerala,6.56,0.97,3.37,80.9,9.537,217.0,77.1,1.475,7.599,98.8,70.5,Heavily Contaminated
+2024,Palakkad,Wasteland,Kerala,8.29,3.903,4.33,520.9,7.729,313.8,58.32,4.318,3.038,472.3,40.0,Heavily Contaminated
+2024,Palakkad,Forest Buffer,Kerala,5.19,2.954,5.54,564.7,6.275,63.8,32.13,1.868,8.703,523.1,11.0,Heavily Contaminated
+2024,Malappuram,Agricultural,Kerala,6.81,3.411,5.84,111.9,7.048,277.3,33.34,1.459,1.775,338.3,66.4,Heavily Contaminated
+2024,Malappuram,Industrial,Kerala,5.3,0.455,2.25,34.3,6.396,147.3,38.82,2.373,1.927,133.5,72.1,Heavily Contaminated
+2024,Malappuram,Residential,Kerala,7.91,0.229,5.2,566.7,2.128,323.1,23.94,3.559,3.512,326.6,91.2,Heavily Contaminated
+2024,Malappuram,Wasteland,Kerala,6.13,0.401,3.31,456.6,2.965,295.2,60.28,3.882,2.498,351.2,65.1,Heavily Contaminated
+2024,Malappuram,Forest Buffer,Kerala,6.1,0.778,5.2,225.6,11.613,69.8,14.3,2.638,1.322,563.0,54.4,Heavily Contaminated
+2024,Kannur,Agricultural,Kerala,7.92,1.094,5.22,165.8,13.779,36.8,34.91,0.29,4.06,144.9,50.3,Heavily Contaminated
+2024,Kannur,Industrial,Kerala,8.17,2.082,4.44,7.3,1.686,274.9,42.84,3.603,8.854,448.1,101.5,Heavily Contaminated
+2024,Kannur,Residential,Kerala,6.27,2.371,1.18,668.2,9.292,20.6,48.19,3.519,2.198,437.7,61.0,Heavily Contaminated
+2024,Kannur,Wasteland,Kerala,7.91,0.332,0.77,197.4,4.253,102.3,44.13,4.246,2.222,148.3,56.0,Heavily Contaminated
+2024,Kannur,Forest Buffer,Kerala,6.52,1.097,3.08,205.6,8.008,44.2,54.78,3.638,4.494,454.6,47.9,Heavily Contaminated
+2024,Kollam,Agricultural,Kerala,5.16,2.95,0.89,86.2,6.963,108.1,10.18,4.262,5.597,137.5,59.5,Heavily Contaminated
+2024,Kollam,Industrial,Kerala,8.0,1.402,1.6,400.0,2.457,115.2,61.78,3.901,4.671,570.0,77.8,Heavily Contaminated
+2024,Kollam,Residential,Kerala,7.65,1.42,4.43,312.0,2.866,26.8,37.71,0.702,5.463,501.8,16.9,Heavily Contaminated
+2024,Kollam,Wasteland,Kerala,8.48,2.92,5.59,652.8,8.036,330.0,8.46,3.484,2.503,103.0,64.6,Heavily Contaminated
+2024,Kollam,Forest Buffer,Kerala,6.79,0.593,3.32,637.6,6.919,316.6,4.59,1.448,1.683,150.8,100.2,Heavily Contaminated
+2024,Pathanamthitta,Agricultural,Kerala,5.49,0.774,5.37,725.8,13.755,50.3,2.89,2.957,9.078,298.9,76.1,Heavily Contaminated
+2024,Pathanamthitta,Industrial,Kerala,4.23,2.208,0.46,222.6,2.212,184.1,15.82,0.104,7.2,283.1,93.3,Heavily Contaminated
+2024,Pathanamthitta,Residential,Kerala,7.06,1.972,4.79,441.5,7.096,141.7,79.06,3.49,3.906,168.2,20.0,Heavily Contaminated
+2024,Pathanamthitta,Wasteland,Kerala,6.6,2.882,1.85,581.8,13.568,90.8,4.42,4.328,2.982,346.1,69.6,Heavily Contaminated
+2024,Pathanamthitta,Forest Buffer,Kerala,7.82,3.329,2.55,402.7,11.131,247.1,86.34,0.561,3.691,105.1,41.1,Heavily Contaminated
+2024,Idukki,Agricultural,Kerala,7.75,3.615,2.89,609.6,9.736,109.5,26.1,3.745,1.394,166.7,4.0,Heavily Contaminated
+2024,Idukki,Industrial,Kerala,6.77,1.115,1.39,575.4,12.26,267.8,70.27,3.758,2.596,482.1,51.5,Heavily Contaminated
+2024,Idukki,Residential,Kerala,6.09,2.898,2.58,426.5,0.707,156.1,71.64,1.424,8.519,92.8,72.3,Heavily Contaminated
+2024,Idukki,Wasteland,Kerala,6.7,3.523,4.1,382.7,4.98,209.0,13.17,1.125,6.722,73.2,19.1,Heavily Contaminated
+2024,Idukki,Forest Buffer,Kerala,6.9,2.496,3.33,443.9,9.912,175.5,29.69,3.497,4.52,506.9,53.5,Heavily Contaminated

@@ -1,0 +1,97 @@
+ear,Quarter,River,State,pH,DO(mg/L),BOD(mg/L),COD(mg/L),Turbidity(NTU),TDS(mg/L),Nitrates(mg/L),Phosphates(mg/L),Fecal_Coliform(MPN/100mL),Heavy_Metals(mg/L),Water_Quality_Class
+2022,Q1,Periyar,Kerala,6.56,4.49,6.06,14.4,124.9,635.0,38.92,1.491,7772,1.019,Class B - Good
+2022,Q2,Periyar,Kerala,6.31,3.41,20.43,46.57,91.7,403.0,12.87,7.148,6948,1.175,Class D - Heavily Polluted
+2022,Q3,Periyar,Kerala,6.7,8.66,22.44,63.25,27.0,138.0,8.3,4.318,5041,1.16,Class D - Heavily Polluted
+2022,Q4,Periyar,Kerala,6.43,2.65,2.99,5.49,70.1,278.0,35.67,4.151,570,1.576,Class C - Polluted
+2022,Q1,Pamba,Kerala,8.17,9.64,16.45,33.43,80.8,722.0,34.91,1.982,8598,0.772,Class C - Polluted
+2022,Q2,Pamba,Kerala,6.98,3.25,24.81,73.38,34.8,1090.0,37.93,4.662,7560,1.959,Class D - Heavily Polluted
+2022,Q3,Pamba,Kerala,8.85,4.08,20.23,63.05,52.8,810.0,24.15,7.339,8484,1.494,Class D - Heavily Polluted
+2022,Q4,Pamba,Kerala,6.31,6.35,16.42,29.74,104.3,867.0,3.68,6.799,7557,0.258,Class C - Polluted
+2022,Q1,Chaliyar,Kerala,6.45,8.13,19.82,58.02,122.9,956.0,33.58,6.613,4478,1.633,Class C - Polluted
+2022,Q2,Chaliyar,Kerala,6.98,7.49,13.5,26.58,15.8,229.0,10.19,0.608,7216,0.599,Class C - Polluted
+2022,Q3,Chaliyar,Kerala,8.12,8.17,20.86,60.1,68.7,1077.0,36.91,0.914,9327,1.199,Class D - Heavily Polluted
+2022,Q4,Chaliyar,Kerala,8.97,3.67,12.15,23.05,121.6,519.0,23.52,0.796,2602,1.753,Class C - Polluted
+2022,Q1,Bharathapuzha,Kerala,5.95,7.14,19.72,55.29,81.3,879.0,25.67,4.976,7770,0.718,Class C - Polluted
+2022,Q2,Bharathapuzha,Kerala,9.05,8.93,6.54,18.96,52.0,155.0,16.45,1.379,1894,1.839,Class B - Good
+2022,Q3,Bharathapuzha,Kerala,8.24,3.54,3.06,6.24,119.3,678.0,36.58,6.781,5447,0.554,Class C - Polluted
+2022,Q4,Bharathapuzha,Kerala,7.55,9.65,28.49,67.14,64.9,1213.0,16.91,1.955,6888,0.492,Class D - Heavily Polluted
+2022,Q1,Kallada,Kerala,7.11,9.31,24.33,70.41,70.3,1337.0,2.25,1.381,7628,1.775,Class D - Heavily Polluted
+2022,Q2,Kallada,Kerala,7.96,3.36,15.5,44.53,105.2,1272.0,38.3,3.884,9467,1.64,Class C - Polluted
+2022,Q3,Kallada,Kerala,6.9,4.07,16.92,44.91,54.9,896.0,35.17,2.531,5864,1.115,Class C - Polluted
+2022,Q4,Kallada,Kerala,6.86,6.41,8.95,21.27,38.8,522.0,32.17,7.892,579,1.082,Class B - Good
+2022,Q1,Achankovil,Kerala,6.01,5.08,13.08,26.14,69.6,519.0,3.13,1.068,6903,0.936,Class C - Polluted
+2022,Q2,Achankovil,Kerala,8.89,7.46,10.81,32.07,104.7,1142.0,12.42,1.442,3810,1.247,Class C - Polluted
+2022,Q3,Achankovil,Kerala,6.92,5.19,1.33,4.01,37.3,433.0,15.37,1.514,6277,0.784,Class B - Good
+2022,Q4,Achankovil,Kerala,7.61,6.39,23.14,71.85,103.4,1183.0,16.24,6.907,260,0.33,Class D - Heavily Polluted
+2022,Q1,Manimala,Kerala,8.5,7.73,29.25,59.15,21.9,159.0,13.89,0.429,8288,0.532,Class D - Heavily Polluted
+2022,Q2,Manimala,Kerala,6.23,6.7,10.15,21.66,12.0,1490.0,34.37,2.645,6203,1.702,Class C - Polluted
+2022,Q3,Manimala,Kerala,9.09,5.59,10.17,18.54,12.8,1438.0,24.71,3.596,6313,1.877,Class C - Polluted
+2022,Q4,Manimala,Kerala,5.93,7.69,18.37,51.87,97.5,1038.0,23.42,3.498,4333,1.574,Class C - Polluted
+2022,Q1,Vamanapuram,Kerala,6.91,6.72,27.38,61.17,76.8,1406.0,40.07,5.457,6105,1.554,Class D - Heavily Polluted
+2022,Q2,Vamanapuram,Kerala,9.11,7.87,19.94,37.51,65.2,549.0,2.28,5.1,8343,1.148,Class C - Polluted
+2022,Q3,Vamanapuram,Kerala,7.01,10.06,20.77,41.94,80.1,1296.0,32.74,3.999,7594,0.98,Class D - Heavily Polluted
+2022,Q4,Vamanapuram,Kerala,7.29,5.86,9.9,25.64,26.5,1468.0,33.95,6.834,8760,1.369,Class C - Polluted
+2023,Q1,Periyar,Kerala,8.87,8.41,14.75,26.98,68.4,846.0,31.03,6.957,239,0.978,Class C - Polluted
+2023,Q2,Periyar,Kerala,6.61,5.69,2.68,7.52,31.5,755.0,12.46,2.987,3096,0.933,Class B - Good
+2023,Q3,Periyar,Kerala,8.58,4.45,16.45,42.93,55.7,251.0,18.03,0.941,8911,1.415,Class C - Polluted
+2023,Q4,Periyar,Kerala,8.16,2.74,5.97,11.96,47.0,307.0,18.39,5.813,4632,1.357,Class C - Polluted
+2023,Q1,Pamba,Kerala,8.75,5.22,18.18,40.34,30.3,129.0,10.21,2.032,1805,1.549,Class C - Polluted
+2023,Q2,Pamba,Kerala,6.77,4.2,17.76,38.71,98.7,622.0,12.08,6.04,7970,1.628,Class C - Polluted
+2023,Q3,Pamba,Kerala,7.08,6.75,17.75,51.47,15.1,1266.0,24.82,6.663,759,1.129,Class C - Polluted
+2023,Q4,Pamba,Kerala,8.97,7.48,19.72,58.62,118.4,426.0,27.94,1.007,969,1.748,Class C - Polluted
+2023,Q1,Chaliyar,Kerala,8.96,10.24,12.44,35.99,116.0,246.0,30.61,4.637,3308,1.157,Class C - Polluted
+2023,Q2,Chaliyar,Kerala,6.27,8.89,19.22,51.88,70.9,652.0,34.26,4.237,1840,1.118,Class C - Polluted
+2023,Q3,Chaliyar,Kerala,8.0,5.6,21.83,53.79,10.2,135.0,2.51,2.749,7357,0.924,Class D - Heavily Polluted
+2023,Q4,Chaliyar,Kerala,8.05,6.69,28.09,83.66,26.6,1320.0,19.93,7.747,1340,0.01,Class D - Heavily Polluted
+2023,Q1,Bharathapuzha,Kerala,5.83,4.66,24.87,64.04,13.4,779.0,9.23,0.48,1525,0.91,Class D - Heavily Polluted
+2023,Q2,Bharathapuzha,Kerala,6.4,6.96,4.27,11.69,25.0,1344.0,3.66,2.513,8775,0.675,Class B - Good
+2023,Q3,Bharathapuzha,Kerala,7.98,9.13,11.36,24.06,16.8,887.0,40.61,4.367,5290,1.252,Class C - Polluted
+2023,Q4,Bharathapuzha,Kerala,8.98,9.77,28.99,56.65,94.0,186.0,34.32,6.76,749,0.689,Class D - Heavily Polluted
+2023,Q1,Kallada,Kerala,7.23,4.45,13.35,36.06,50.9,268.0,38.71,5.825,8496,1.655,Class C - Polluted
+2023,Q2,Kallada,Kerala,9.03,4.75,16.61,51.6,45.3,596.0,8.1,3.705,6345,0.708,Class C - Polluted
+2023,Q3,Kallada,Kerala,7.31,3.12,26.72,62.46,77.6,240.0,40.68,1.495,9304,0.487,Class D - Heavily Polluted
+2023,Q4,Kallada,Kerala,7.37,8.25,29.98,69.21,45.2,837.0,38.73,7.949,4661,0.161,Class D - Heavily Polluted
+2023,Q1,Achankovil,Kerala,7.75,8.98,18.81,33.98,12.5,145.0,5.77,4.234,6236,0.744,Class C - Polluted
+2023,Q2,Achankovil,Kerala,8.48,4.66,29.21,68.23,27.8,352.0,5.15,0.697,5664,0.652,Class D - Heavily Polluted
+2023,Q3,Achankovil,Kerala,6.12,7.12,17.57,46.05,61.0,1480.0,12.99,4.924,9237,0.108,Class C - Polluted
+2023,Q4,Achankovil,Kerala,9.17,7.31,5.65,12.74,119.9,444.0,33.25,5.403,3967,0.015,Class B - Good
+2023,Q1,Manimala,Kerala,9.1,5.78,16.88,32.12,119.9,83.0,13.33,2.99,3513,1.274,Class C - Polluted
+2023,Q2,Manimala,Kerala,6.2,10.41,20.14,55.42,77.1,797.0,8.49,0.889,3633,0.61,Class D - Heavily Polluted
+2023,Q3,Manimala,Kerala,8.14,2.82,3.5,8.58,23.9,91.0,13.48,2.067,3469,0.012,Class C - Polluted
+2023,Q4,Manimala,Kerala,8.13,6.57,5.54,11.57,77.4,1475.0,14.5,6.235,429,1.734,Class B - Good
+2023,Q1,Vamanapuram,Kerala,6.68,10.36,11.3,32.8,95.1,1357.0,32.15,2.233,4035,1.132,Class C - Polluted
+2023,Q2,Vamanapuram,Kerala,6.73,7.57,12.91,23.28,82.1,1026.0,40.43,6.617,9479,0.64,Class C - Polluted
+2023,Q3,Vamanapuram,Kerala,5.95,3.05,14.49,30.32,10.7,971.0,38.73,6.611,719,1.856,Class C - Polluted
+2023,Q4,Vamanapuram,Kerala,6.75,7.18,23.83,48.96,24.5,399.0,39.59,6.865,2166,1.666,Class D - Heavily Polluted
+2024,Q1,Periyar,Kerala,7.83,7.74,14.61,39.86,95.8,1018.0,10.58,6.083,5252,0.825,Class C - Polluted
+2024,Q2,Periyar,Kerala,6.85,8.8,25.53,71.01,125.5,254.0,19.03,6.498,3994,1.49,Class D - Heavily Polluted
+2024,Q3,Periyar,Kerala,6.52,5.68,22.78,65.57,10.3,443.0,40.46,4.572,6454,0.192,Class D - Heavily Polluted
+2024,Q4,Periyar,Kerala,8.6,8.3,19.64,54.8,99.9,323.0,31.14,5.836,4396,0.878,Class C - Polluted
+2024,Q1,Pamba,Kerala,8.77,9.86,27.03,57.55,83.6,1170.0,14.03,3.843,3205,0.224,Class D - Heavily Polluted
+2024,Q2,Pamba,Kerala,9.14,7.96,16.97,37.65,76.8,944.0,10.25,0.217,3786,1.25,Class C - Polluted
+2024,Q3,Pamba,Kerala,7.03,7.7,5.44,14.73,17.2,1352.0,11.06,0.086,4604,1.905,Class B - Good
+2024,Q4,Pamba,Kerala,6.21,7.36,5.67,16.26,38.9,1216.0,10.93,0.861,375,1.012,Class B - Good
+2024,Q1,Chaliyar,Kerala,7.84,9.69,21.75,41.55,49.3,1158.0,30.28,0.475,9332,1.387,Class D - Heavily Polluted
+2024,Q2,Chaliyar,Kerala,8.32,7.53,21.78,66.68,17.9,458.0,8.46,4.221,418,0.501,Class D - Heavily Polluted
+2024,Q3,Chaliyar,Kerala,8.7,3.15,12.09,23.45,44.0,482.0,32.07,6.667,2640,1.631,Class C - Polluted
+2024,Q4,Chaliyar,Kerala,8.43,5.44,19.18,57.22,45.7,128.0,16.34,5.626,1307,1.516,Class C - Polluted
+2024,Q1,Bharathapuzha,Kerala,8.27,9.07,13.45,24.57,117.2,230.0,9.72,0.295,2248,1.999,Class C - Polluted
+2024,Q2,Bharathapuzha,Kerala,7.42,7.66,7.73,23.06,39.8,221.0,11.48,5.409,5337,1.688,Class B - Good
+2024,Q3,Bharathapuzha,Kerala,7.69,6.32,23.82,49.91,37.5,1374.0,25.52,3.077,1951,1.501,Class D - Heavily Polluted
+2024,Q4,Bharathapuzha,Kerala,8.22,6.55,19.1,40.71,64.2,1334.0,38.43,0.223,8145,0.125,Class C - Polluted
+2024,Q1,Kallada,Kerala,7.38,9.0,29.01,86.87,82.8,1376.0,37.39,5.569,7600,1.282,Class D - Heavily Polluted
+2024,Q2,Kallada,Kerala,8.11,10.24,3.6,10.28,109.5,458.0,10.38,0.784,5981,1.605,Class B - Good
+2024,Q3,Kallada,Kerala,7.36,6.76,20.69,63.26,20.5,352.0,5.55,7.705,3089,1.999,Class D - Heavily Polluted
+2024,Q4,Kallada,Kerala,7.77,3.84,23.62,61.76,36.9,1241.0,15.97,0.832,349,1.203,Class D - Heavily Polluted
+2024,Q1,Achankovil,Kerala,6.49,6.14,1.07,3.1,60.8,474.0,16.78,3.293,6370,0.739,Class B - Good
+2024,Q2,Achankovil,Kerala,8.1,6.98,29.77,84.79,108.2,289.0,22.05,1.993,7576,0.495,Class D - Heavily Polluted
+2024,Q3,Achankovil,Kerala,7.41,6.8,20.95,45.3,23.0,837.0,4.01,7.529,455,1.954,Class D - Heavily Polluted
+2024,Q4,Achankovil,Kerala,9.2,9.02,21.73,45.84,26.3,155.0,9.43,4.249,1917,1.211,Class D - Heavily Polluted
+2024,Q1,Manimala,Kerala,6.36,6.95,21.23,47.47,71.3,1053.0,4.25,4.298,5625,1.11,Class D - Heavily Polluted
+2024,Q2,Manimala,Kerala,6.91,5.15,5.62,10.88,58.1,810.0,40.08,5.478,198,0.243,Class B - Good
+2024,Q3,Manimala,Kerala,7.73,3.35,11.75,37.03,71.7,1127.0,37.14,1.893,6255,0.936,Class C - Polluted
+2024,Q4,Manimala,Kerala,7.47,4.03,9.85,30.0,49.3,1459.0,7.34,4.278,4707,1.055,Class C - Polluted
+2024,Q1,Vamanapuram,Kerala,8.72,4.81,8.34,18.28,54.1,1369.0,0.98,5.379,6695,1.417,Class B - Good
+2024,Q2,Vamanapuram,Kerala,7.84,6.98,6.39,19.2,101.1,1154.0,39.16,3.194,6970,0.947,Class B - Good
+2024,Q3,Vamanapuram,Kerala,6.99,6.59,19.16,50.24,25.4,1110.0,3.34,1.697,7631,1.655,Class C - Polluted
+2024,Q4,Vamanapuram,Kerala,6.66,9.12,17.84,49.57,40.6,1459.0,27.48,0.69,6054,1.321,Class C - Polluted
